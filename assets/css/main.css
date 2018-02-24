@@ -2641,6 +2641,14 @@
 				}
 
 			}
+			@media screen and (max-width: 580px) {
+
+				.wrapper > .inner {
+					width: 100%;
+					height:100% !important;
+				}
+
+			}
 
 		.wrapper.alt {
 			padding: 0;
